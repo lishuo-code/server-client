@@ -1,5 +1,5 @@
 # server-client  
-Implement two programs in C/C++/Rust:  
+Implement two programs in C:  
 
 * Server program:
 
