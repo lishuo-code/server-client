@@ -23,4 +23,8 @@ operations, try to optimize the granularity
 
      - Enqueue requests/operations (insert, read a bucket, delete) to 
 the server (that will operate on the the hash table) via shared memory 
-buffer (POSIX shm)
+buffer (POSIX shm)    
+  
+* Screenshot  
+![image](https://github.com/lishuo-code/server-client/blob/master/screenshot.png)
+
